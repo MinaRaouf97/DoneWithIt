@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645891549858",
+    "project_id": "donewithit-70157",
+    "storage_bucket": "donewithit-70157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645891549858:android:51c0bdd2a6ffe15d99c5fb",
+        "android_client_info": {
+          "package_name": "com.donewithit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645891549858-f840i27noofigpihpc8m6afn70qln68j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxA0os-eG7_8fmvc_TZT9LXFgL1bSWc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645891549858-f840i27noofigpihpc8m6afn70qln68j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
